@@ -1,0 +1,14 @@
+Your name, login name (such as jlim123) and (7 or 9 digit) ID number
+Scarlett Zhang, tzha842, 395093628;
+
+How much time did the assignment take you overall?
+One-two days;
+
+Which areas of the assignment did you find easy and which ones were difficult?
+Except the MovingSquare and the DrawImage areas are complicated and difficult for me to thinking, the others parts are easy. Because I can't figure out how to use MovingRectangle to extends MovingSquare and set the Square sides that inherit from Rectangle's width and height to be equal;
+
+Which topics in the course did the assignment most help you understand?
+Review quizzes;
+
+Any other comments you would like to make.
+Angela is an excellent teacher, she is conscientious.
